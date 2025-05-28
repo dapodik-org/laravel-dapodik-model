@@ -10,6 +10,11 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "adereksisusanto",
+            "email": "adereksisusanto@gmail.com",
+            "role": "Developer"
+        },
+        {
             "name": "dapodik-org",
             "email": "org.dapodik@gmail.com",
             "role": "Developer"
