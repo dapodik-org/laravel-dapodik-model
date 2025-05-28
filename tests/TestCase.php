@@ -2,9 +2,9 @@
 
 namespace Dapodik\Model\Tests;
 
+use Dapodik\Model\ModelServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Dapodik\Model\ModelServiceProvider;
 
 class TestCase extends Orchestra
 {

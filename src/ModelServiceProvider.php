@@ -2,9 +2,9 @@
 
 namespace Dapodik\Model;
 
+use Dapodik\Model\Commands\ModelCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Dapodik\Model\Commands\ModelCommand;
 
 class ModelServiceProvider extends PackageServiceProvider
 {
