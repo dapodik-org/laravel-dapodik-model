@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Dapodik\Model\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ModelCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-dapodik-model';
 
     public $description = 'My command';
 
